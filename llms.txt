@@ -1,0 +1,39 @@
+# Drogaria Popular do Tiãozinho
+
+> Drogaria de bairro no Jardim Aeroporto, em Franca/SP. Venda online com entrega grátis nos bairros atendidos de Franca, retirada na loja em cerca de 15 minutos e 5% de desconto no Pix.
+
+## Dados da farmácia
+- Nome: Drogaria Popular do Tiãozinho (também chamada de Tiãozinho da Farmácia)
+- Razão social: S. G. S. Drogaria Ltda · CNPJ 67.499.754/0001-09
+- Endereço: Rua Alípio Resende de Araújo, 1647, Jardim Aeroporto, Franca/SP, CEP 14404-095 (esquina com a Av. Gabriela de Almeida Pirajá)
+- Telefone: (16) 3030-3696 · WhatsApp: (16) 99063-6369
+- Horário: segunda a sexta 8h às 21h; sábado 8h às 20h; domingo e feriados 8h às 12h
+- Pagamento: Pix (5% de desconto no total do pedido), cartão de crédito, cartão de débito e dinheiro
+- Instagram: https://www.instagram.com/tiaozinho.drogariapopular/
+- Como chegar: https://www.google.com/maps/dir/?api=1&destination=-20.5758652,-47.3671077
+
+## Serviços
+- Entrega grátis, sem pedido mínimo, nos CEPs atendidos de Franca (14400-000 a 14415-999)
+- Compre e retire na loja em cerca de 15 minutos
+- Medicamentos com receita: envio da foto da receita pelo WhatsApp, conferida pelo farmacêutico
+- Medicamentos controlados e antibióticos: somente na loja, com a receita original
+
+## Perguntas frequentes
+- Como funciona o compre e retire? Você escolhe os produtos no site, finaliza o pedido escolhendo Retirar na loja e a gente separa tudo com o seu nome. Quando estiver pronto, avisamos pelo WhatsApp. Você paga na retirada.
+- Vocês entregam no meu bairro? Informe seu CEP no topo do site para ver o prazo. A entrega é grátis, sem pedido mínimo, nos bairros atendidos de Franca.
+- Posso comprar remédio com receita pelo site? Pode, para medicamentos de tarja vermelha sem retenção de receita. Envie a foto da receita pelo WhatsApp e o farmacêutico confere antes de separar. Antibióticos e medicamentos controlados são vendidos somente na loja, com a receita original.
+- Quais formas de pagamento vocês aceitam? Pix com 5% de desconto no total do pedido, cartão de crédito, cartão de débito e dinheiro. Cartão é passado na maquininha, na entrega ou na retirada.
+- A farmácia abre aos domingos? Abre. Domingos e feriados das 8h às 12h. Segunda a sexta das 8h às 21h e sábado das 8h às 20h.
+- Tem genérico do meu remédio? Na maioria dos casos tem. Mande o nome do remédio ou a foto da receita e a gente indica o genérico equivalente.
+
+## Conteúdo de saúde
+- [Genérico tem o mesmo efeito do remédio de marca?](https://drogariapopulartiaozinho.vercel.app/saude/generico-funciona): Entenda por que o genérico pode custar menos sem perder eficácia.
+- [Como guardar remédios em casa no calor de Franca](https://drogariapopulartiaozinho.vercel.app/saude/guardar-remedios-calor): Banheiro e cozinha são os piores lugares. Veja onde guardar.
+- [Protetor solar: quanto passar e de quanto em quanto tempo](https://drogariapopulartiaozinho.vercel.app/saude/protetor-solar-quantidade): A maioria das pessoas passa menos da metade do necessário.
+- [Pressão alta: por que não parar o remédio quando a pressão normaliza](https://drogariapopulartiaozinho.vercel.app/saude/pressao-alta-nao-parar): Pressão boa costuma ser sinal de que o remédio está funcionando.
+
+## Páginas
+- [Loja](https://drogariapopulartiaozinho.vercel.app/)
+- [Informações farmacêuticas](https://drogariapopulartiaozinho.vercel.app/#info-farmaceutica)
+- [Termos de compra](https://drogariapopulartiaozinho.vercel.app/#termos)
+- [Privacidade](https://drogariapopulartiaozinho.vercel.app/#privacidade)
