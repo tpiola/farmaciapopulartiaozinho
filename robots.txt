@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://drogariapopulartiaozinho.vercel.app/sitemap.xml
+Sitemap: https://farmaciapopulartiaozinho.vercel.app/sitemap.xml

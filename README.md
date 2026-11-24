@@ -2,7 +2,7 @@
 
 E-commerce da Drogaria Popular do Tiãozinho (Jardim Aeroporto, Franca/SP). MVP mobile first: carrossel de destaques, catálogo, carrinho, checkout seguro com pedido pelo WhatsApp, entrega grátis por CEP, 5% de desconto no Pix, blog de saúde e páginas legais (RDC 44/2009, RDC 96/2008, Decreto 7.962/2013, LGPD).
 
-Site estático publicado na Vercel: https://drogariapopulartiaozinho.vercel.app
+Site estático publicado na Vercel: https://farmaciapopulartiaozinho.vercel.app
 
 ## Estrutura
 - `index.html`: loja (conteúdo pré-renderizado para buscadores e IAs; o `app.js` assume a navegação).

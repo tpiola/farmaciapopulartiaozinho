@@ -27,13 +27,13 @@
 - Tem genérico do meu remédio? Na maioria dos casos tem. Mande o nome do remédio ou a foto da receita e a gente indica o genérico equivalente.
 
 ## Conteúdo de saúde
-- [Genérico tem o mesmo efeito do remédio de marca?](https://drogariapopulartiaozinho.vercel.app/saude/generico-funciona): Entenda por que o genérico pode custar menos sem perder eficácia.
-- [Como guardar remédios em casa no calor de Franca](https://drogariapopulartiaozinho.vercel.app/saude/guardar-remedios-calor): Banheiro e cozinha são os piores lugares. Veja onde guardar.
-- [Protetor solar: quanto passar e de quanto em quanto tempo](https://drogariapopulartiaozinho.vercel.app/saude/protetor-solar-quantidade): A maioria das pessoas passa menos da metade do necessário.
-- [Pressão alta: por que não parar o remédio quando a pressão normaliza](https://drogariapopulartiaozinho.vercel.app/saude/pressao-alta-nao-parar): Pressão boa costuma ser sinal de que o remédio está funcionando.
+- [Genérico tem o mesmo efeito do remédio de marca?](https://farmaciapopulartiaozinho.vercel.app/saude/generico-funciona): Entenda por que o genérico pode custar menos sem perder eficácia.
+- [Como guardar remédios em casa no calor de Franca](https://farmaciapopulartiaozinho.vercel.app/saude/guardar-remedios-calor): Banheiro e cozinha são os piores lugares. Veja onde guardar.
+- [Protetor solar: quanto passar e de quanto em quanto tempo](https://farmaciapopulartiaozinho.vercel.app/saude/protetor-solar-quantidade): A maioria das pessoas passa menos da metade do necessário.
+- [Pressão alta: por que não parar o remédio quando a pressão normaliza](https://farmaciapopulartiaozinho.vercel.app/saude/pressao-alta-nao-parar): Pressão boa costuma ser sinal de que o remédio está funcionando.
 
 ## Páginas
-- [Loja](https://drogariapopulartiaozinho.vercel.app/)
-- [Informações farmacêuticas](https://drogariapopulartiaozinho.vercel.app/#info-farmaceutica)
-- [Termos de compra](https://drogariapopulartiaozinho.vercel.app/#termos)
-- [Privacidade](https://drogariapopulartiaozinho.vercel.app/#privacidade)
+- [Loja](https://farmaciapopulartiaozinho.vercel.app/)
+- [Informações farmacêuticas](https://farmaciapopulartiaozinho.vercel.app/#info-farmaceutica)
+- [Termos de compra](https://farmaciapopulartiaozinho.vercel.app/#termos)
+- [Privacidade](https://farmaciapopulartiaozinho.vercel.app/#privacidade)
